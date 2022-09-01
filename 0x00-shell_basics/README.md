@@ -1,1 +1,1 @@
-a script that Display current directory contents, including hidden files (starting with .).
+a script that Display current directory contentDisplay current directory contents
